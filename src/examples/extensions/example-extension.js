@@ -178,7 +178,7 @@ ExampleExtension.prototype.getInfo = function () {
         // Optional: translations
         translation_map: {
             de: {
-                'extensionName': 'Einige Blöcke',
+                'extensionName': 'test',
                 'myReporter': 'Buchstabe [LETTER_NUM] von [TEXT]',
                 'myReporter.TEXT_default': 'Text',
                 'menuA_item1': 'Artikel eins',
